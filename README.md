@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Driti! | Software Developer
+## 👨‍💻 About Me
+I'm passionate about Mathematics, the intersection between Mathematics and Computer Science, and Algorithms & Data Structures.
 
-<!--
-**dritka/dritka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning/Exploring
+- App development using Flutter + Dart
+- Backend systems with Java + SpringBoot
+- Functional Programming with Scala
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,scala,python&theme=dark"/>
+</p>
+
+### Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=spring&theme=dark"/>
+</p>
+
+### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark"/>
+</p>
